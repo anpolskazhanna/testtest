@@ -1,0 +1,15 @@
+2023/04/19-10:15:41.950 9203 Reusing MANIFEST /Users/mehdiskan/Library/Application Support/Google/Chrome/Profile 1/Local Extension Settings/egjidjbpglichdcondbcbdnbeeppgdph/MANIFEST-000001
+2023/04/19-10:15:41.950 9203 Recovering log #191
+2023/04/19-10:15:41.952 9203 Reusing old log /Users/mehdiskan/Library/Application Support/Google/Chrome/Profile 1/Local Extension Settings/egjidjbpglichdcondbcbdnbeeppgdph/000191.log 
+2023/04/19-10:40:28.196 8e03 Level-0 table #195: started
+2023/04/19-10:40:28.221 8e03 Level-0 table #195: 1579597 bytes OK
+2023/04/19-10:40:28.258 8e03 Delete type=0 #191
+2023/04/19-10:40:28.259 8e03 Compacting 4@0 + 1@1 files
+2023/04/19-10:40:28.285 8e03 Generated table #196@0: 1 keys, 27304 bytes
+2023/04/19-10:40:28.285 8e03 Compacted 4@0 + 1@1 files => 27304 bytes
+2023/04/19-10:40:28.321 8e03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/19-10:40:28.321 8e03 Delete type=2 #189
+2023/04/19-10:40:28.321 8e03 Delete type=2 #195
+2023/04/19-10:40:28.321 8e03 Delete type=2 #184
+2023/04/19-10:40:28.322 8e03 Delete type=2 #186
+2023/04/19-10:40:28.322 8e03 Delete type=2 #192
